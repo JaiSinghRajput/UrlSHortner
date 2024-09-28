@@ -4,7 +4,7 @@ Welcome to the **URL Shortener** web application. This project allows users to s
 
 
 
-![App Preview](./preview/totalurls-and-contact%20.png)
+![App Preview](./preview/home.png)
 
 ## 🚀 Features
 
@@ -21,6 +21,12 @@ Welcome to the **URL Shortener** web application. This project allows users to s
 
 ### URL Shortened Result
 ![App Preview](./preview/input-and-gen.png)
+
+### Recent Generates 
+![App Preview](./preview/recenturls.png)
+
+### Total Generates And Footer
+![App Preview](./preview/totalurls-and-contact%20.png)
 
 ## 📦 Installation
 
